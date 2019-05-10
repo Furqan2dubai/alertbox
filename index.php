@@ -84,11 +84,7 @@ function index() {
  
                 <?php  
                 $last_post_type = $currpost_type;
-    endwhile;
-     //print_r( $loop ); 
-    // foreach($pages as $i){
-    //     print_r($i  );
-    // }
+    endwhile; 
 ?>
   </ol>
   <input type="hidden" name="postId" id="postId" value="<?php echo get_option('postId'); ?>"/> 
@@ -96,9 +92,7 @@ function index() {
   </form>
   </div>
 <?php
-} 
-
- 
+}  
 ?>
 
  
