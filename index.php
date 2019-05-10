@@ -2,7 +2,7 @@
  
 /*
 Plugin Name: Alert Box
-Plugin URI: https://furqanhussain.com/
+Plugin URI: https://github.com/Furqan2dubai/alertbox
 Description: ''
 Author: Furqan Hussain
 Version: 1.7.2
